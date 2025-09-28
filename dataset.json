@@ -1,0 +1,212 @@
+{
+  "camera_points": [
+      { "id": 1, "name": "Ngã Ba Huế", "latitude": 16.0703, "longitude": 108.1796, "location": "Liên Chiểu" },
+      { "id": 2, "name": "Cầu Rồng", "latitude": 16.0614, "longitude": 108.2270, "location": "Hải Châu" },
+      { "id": 3, "name": "Tôn Đức Thắng", "latitude": 16.0723, "longitude": 108.1963, "location": "Liên Chiểu" },
+      { "id": 4, "name": "Quang Trung", "latitude": 16.0754, "longitude": 108.2196, "location": "Hải Châu" },
+      { "id": 5, "name": "Đống Đa", "latitude": 16.0758, "longitude": 108.2188, "location": "Hải Châu" },
+      { "id": 6, "name": "Nguyễn Văn Linh", "latitude": 16.0619, "longitude": 108.2132, "location": "Hòa Cường" },
+      { "id": 7, "name": "Lê Duẩn", "latitude": 16.0743, "longitude": 108.2105, "location": "Hải Châu" },
+      { "id": 8, "name": "Ông Ích Khiêm", "latitude": 16.0736, "longitude": 108.2113, "location": "Hải Châu" },
+      { "id": 9, "name": "Hà Huy Tập", "latitude": 16.0729, "longitude": 108.1876, "location": "Thanh Khê" },
+      { "id": 10, "name": "Chợ Cồn", "latitude": 16.0710, "longitude": 108.2112, "location": "Hải Châu" },
+      { "id": 11, "name": "Ga Đà Nẵng", "latitude": 16.0701, "longitude": 108.2083, "location": "Thanh Khê" },
+      { "id": 12, "name": "Núi Thành", "latitude": 16.0491, "longitude": 108.2244, "location": "Hòa Cường" },
+      { "id": 13, "name": "KCN Hòa Khánh", "latitude": 16.0902, "longitude": 108.1476, "location": "Liên Chiểu" },
+      { "id": 14, "name": "Âu Cơ", "latitude": 16.0595, "longitude": 108.2027, "location": "Hòa Khánh" },
+      { "id": 15, "name": "Quảng trường 29/3", "latitude": 16.0652, "longitude": 108.1961, "location": "Hòa Cường" },
+      { "id": 16, "name": "Phạm Văn Đồng", "latitude": 16.0950, "longitude": 108.2410, "location": "Sơn Trà" },
+      { "id": 17, "name": "Hàm Nghi", "latitude": 16.0650, "longitude": 108.1770, "location": "Thanh Khê" },
+      { "id": 18, "name": "Võ Nguyên Giáp", "latitude": 16.0860, "longitude": 108.2430, "location": "Sơn Trà" },
+      { "id": 19, "name": "Trần Phú", "latitude": 16.0740, "longitude": 108.1775, "location": "Thanh Khê" },
+      { "id": 20, "name": "Điện Biên Phủ", "latitude": 16.0710, "longitude": 108.2130, "location": "Hải Châu" },
+      { "id": 21, "name": "Ông Ích Đường", "latitude": 16.0595, "longitude": 108.1920, "location": "Thanh Khê" },
+      { "id": 22, "name": "Cách Mạng Tháng 8", "latitude": 16.0730, "longitude": 108.1990, "location": "Thanh Khê" },
+      { "id": 23, "name": "Trưng Nữ Vương", "latitude": 16.0610, "longitude": 108.2100, "location": "Hòa Cường" },
+      { "id": 24, "name": "Nguyễn Nhàn", "latitude": 16.0620, "longitude": 108.2155, "location": "Hòa Cường" },
+      { "id": 25, "name": "Nguyễn Tất Thành", "latitude": 16.0660, "longitude": 108.2450, "location": "Thanh Khê" },
+      { "id": 26, "name": "Trần Thị Lý", "latitude": 16.0495, "longitude": 108.2290, "location": "Mỹ An" },
+      { "id": 27, "name": "Hùng Vương", "latitude": 16.0690, "longitude": 108.2240, "location": "Hải Châu" },
+      { "id": 28, "name": "Nguyễn Phan Vinh", "latitude": 16.0760, "longitude": 108.2400, "location": "Sơn Trà" },
+      { "id": 29, "name": "Hoàng Diệu", "latitude": 16.0615, "longitude": 108.2125, "location": "Hòa Cường" },
+      { "id": 30, "name": "Hoàng Hoa Thám", "latitude": 16.0740, "longitude": 108.2100, "location": "Hải Châu" },
+      { "id": 31, "name": "Trường Chinh", "latitude": 16.0485, "longitude": 108.1980, "location": "Hòa Cường" },
+      { "id": 32, "name": "Phan Đăng Lưu", "latitude": 16.0535, "longitude": 108.2070, "location": "Hòa Cường" },
+      { "id": 33, "name": "Lê Thanh Nghị", "latitude": 16.0455, "longitude": 108.2020, "location": "Hòa Cường" },
+      { "id": 34, "name": "Bạch Đằng", "latitude": 16.0610, "longitude": 108.2045, "location": "Hòa Cường" },
+      { "id": 35, "name": "Ngũ Hành Sơn", "latitude": 16.0800, "longitude": 108.2560, "location": "Ngũ Hành Sơn" },
+      { "id": 36, "name": "Hoà Xuân", "latitude": 15.9991, "longitude": 108.2420, "location": "Hoà Xuân" },
+      { "id": 37, "name": "Hồ Xuân Hương", "latitude": 16.0830, "longitude": 108.2470, "location": "Sơn Trà" },
+      { "id": 38, "name": "Võ Chí Công", "latitude": 16.0890, "longitude": 108.2700, "location": "Sơn Trà" },
+      { "id": 39, "name": "Lê Văn Hiến", "latitude": 16.0255, "longitude": 108.2340, "location": "Hòa Xuân" },
+      { "id": 40, "name": "Nguyễn Hữu Thọ", "latitude": 16.0479, "longitude": 108.2157, "location": "Hòa Cường" },
+      { "id": 41, "name": "Cầu vượt Hòa Cầm", "latitude": 15.9918, "longitude": 108.1911, "location": "Hòa Xuân" }
+    ],
+    "water_levels": [
+        { "id": 1, "camera_id": 1, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.68, "status": "danger" },
+        { "id": 2, "camera_id": 2, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.59, "status": "danger" },
+        { "id": 3, "camera_id": 3, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.62, "status": "danger" },
+        { "id": 4, "camera_id": 4, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.54, "status": "danger" },
+        { "id": 5, "camera_id": 5, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.45, "status": "warning" },
+        { "id": 6, "camera_id": 6, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.51, "status": "danger" },
+        { "id": 7, "camera_id": 7, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.47, "status": "warning" },
+        { "id": 8, "camera_id": 8, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.43, "status": "warning" },
+        { "id": 9, "camera_id": 9, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.33, "status": "normal" },
+        { "id": 10, "camera_id": 10, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.38, "status": "warning" },
+        { "id": 11, "camera_id": 11, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.31, "status": "normal" },
+        { "id": 12, "camera_id": 12, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.47, "status": "warning" },
+        { "id": 13, "camera_id": 13, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.28, "status": "normal" },
+        { "id": 14, "camera_id": 14, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.26, "status": "normal" },
+        { "id": 15, "camera_id": 15, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.31, "status": "warning" },
+        { "id": 16, "camera_id": 16, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.70, "status": "danger" },
+        { "id": 17, "camera_id": 17, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.65, "status": "danger" },
+        { "id": 18, "camera_id": 18, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.60, "status": "danger" },
+        { "id": 19, "camera_id": 19, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.24, "status": "normal" },
+        { "id": 20, "camera_id": 20, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.50, "status": "danger" },
+        { "id": 21, "camera_id": 21, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.34, "status": "normal" },
+        { "id": 22, "camera_id": 22, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.27, "status": "normal" },
+        { "id": 23, "camera_id": 23, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.36, "status": "normal" },
+        { "id": 24, "camera_id": 24, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.32, "status": "normal" },
+        { "id": 25, "camera_id": 25, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.43, "status": "warning" },
+        { "id": 26, "camera_id": 26, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.38, "status": "normal" },
+        { "id": 27, "camera_id": 27, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.59, "status": "danger" },
+        { "id": 28, "camera_id": 28, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.45, "status": "warning" },
+        { "id": 29, "camera_id": 29, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.33, "status": "normal" },
+        { "id": 30, "camera_id": 30, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.29, "status": "normal" },
+        { "id": 31, "camera_id": 31, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.41, "status": "warning" },
+        { "id": 32, "camera_id": 32, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.42, "status": "warning" },
+        { "id": 33, "camera_id": 33, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.30, "status": "normal" },
+        { "id": 34, "camera_id": 34, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.34, "status": "normal" },
+        { "id": 35, "camera_id": 35, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.46, "status": "warning" },
+        { "id": 36, "camera_id": 36, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.55, "status": "danger" },
+        { "id": 37, "camera_id": 37, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.62, "status": "danger" },
+        { "id": 38, "camera_id": 38, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.68, "status": "danger" },
+        { "id": 39, "camera_id": 39, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.29, "status": "normal" },
+        { "id": 40, "camera_id": 40, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.52, "status": "danger" },
+        { "id": 41, "camera_id": 41, "datetime": "2025-09-27T13:00:00+07:00", "water_level_m": 0.33, "status": "normal" }
+      ],    
+  
+        "scenarios": [
+          {
+            "id": 1,
+            "name": "Mưa lớn toàn thành phố",
+            "description": "Dự báo mưa to đến rất to kéo dài toàn bộ thành phố Đà Nẵng, gây ngập tại Hải Châu, Thanh Khê, và Hòa Cường trong 3 giờ tới.",
+            "predicted_time": "2025-09-27T16:00:00+07:00"
+          },
+          {
+            "id": 2,
+            "name": "Ngập sâu khu vực Hải Châu",
+            "description": "Khu vực phường Hải Châu dự báo ngập sâu trên 0.6m do mưa phía Tây trung tâm thành phố.",
+            "predicted_time": "2025-09-27T17:00:00+07:00"
+          },
+          {
+            "id": 3,
+            "name": "Ngập diện rộng tại Hòa Cường",
+            "description": "Ngập diện rộng tại phường Hòa Cường với mực nước lên đến 0.5 - 0.7m, cần cảnh báo người dân hạn chế ra ngoài.",
+            "predicted_time": "2025-09-27T18:00:00+07:00"
+          },
+          {
+            "id": 4,
+            "name": "Triều cường dâng cao ven sông Hàn",
+            "description": "Mực nước triều cường sông Hàn dâng cao, gây ngập ở các khu vực ven sông thuộc quận Hải Châu.",
+            "predicted_time": "2025-09-27T19:00:00+07:00"
+          },
+          {
+            "id": 5,
+            "name": "Nước rút chậm tại Hòa Xuân",
+            "description": "Nước ngập tại Hòa Xuân rút rất chậm do mưa lớn kết hợp thủy triều, kéo dài ngập lụt thêm 12 giờ tới.",
+            "predicted_time": "2025-09-27T20:00:00+07:00"
+          },
+          {
+            "id": 6,
+            "name": "Ngập cục bộ tại khu công nghiệp Hòa Khánh",
+            "description": "Khu công nghiệp Hòa Khánh bị ngập nặng do mưa kết hợp thoát nước kém, ảnh hưởng sản xuất.",
+            "predicted_time": "2025-09-27T21:00:00+07:00"
+          },
+          {
+            "id": 7,
+            "name": "Lũ quét tiềm ẩn tại khu vực ven núi Liên Chiểu",
+            "description": "Mưa lớn kéo dài tạo nguy cơ lũ quét vùng núi Liên Chiểu, cảnh báo dân cư khu vực này nâng cao cảnh giác.",
+            "predicted_time": "2025-09-27T22:00:00+07:00"
+          },
+          {
+            "id": 8,
+            "name": "Tắc nghẽn giao thông tại các tuyến đường ngập sâu",
+            "description": "Các tuyến đường Quang Trung, Lê Duẩn, Nguyễn Văn Linh bị ngập gây tắc đường nghiêm trọng.",
+            "predicted_time": "2025-09-27T23:00:00+07:00"
+          },
+          {
+            "id": 9,
+            "name": "Nguy cơ mất điện do nước ngập tại trạm biến áp Hải Châu",
+            "description": "Mực nước ngập cao đe dọa trạm biến áp trên địa bàn Hải Châu, có thể xảy ra mất điện cục bộ.",
+            "predicted_time": "2025-09-28T00:00:00+07:00"
+          },
+          {
+            "id": 10,
+            "name": "Nguy cơ sạt lở đất tại Hòa Vang",
+            "description": "Mưa lớn liên tục làm đất mềm, tiềm ẩn nguy cơ sạt lở tại khu vực Hòa Vang ven đồi núi.",
+            "predicted_time": "2025-09-28T01:00:00+07:00"
+          },
+          {
+            "id": 11,
+            "name": "Tăng cường cảnh báo người dân hạn chế ra đường",
+            "description": "Thành phố phát thông báo khẩn hạn chế người dân ra đường do ngập lụt và nguy hiểm của bão Bualoi.",
+            "predicted_time": "2025-09-28T02:00:00+07:00"
+          },
+          {
+            "id": 12,
+            "name": "Mực nước tăng nhanh trong đêm tại Quận Thanh Khê",
+            "description": "Đêm nay dự báo mực nước tại khu vực Thanh Khê sẽ tăng vượt ngưỡng an toàn do mưa lớn kéo dài.",
+            "predicted_time": "2025-09-28T03:00:00+07:00"
+          },
+          {
+            "id": 13,
+            "name": "Ngập nặng tại các khu dân cư thấp trũng",
+            "description": "Các khu dân cư như Hòa Cường, Hòa Xuân sẽ bị ngập sâu từ 0.5m trở lên.",
+            "predicted_time": "2025-09-28T04:00:00+07:00"
+          },
+          {
+            "id": 14,
+            "name": "Mưa lớn kèm gió mạnh ven biển Sơn Trà",
+            "description": "Mưa lớn và gió giật mạnh gây nguy hiểm cho khu vực ven biển Sơn Trà, cảnh báo triều cường cùng sóng lớn.",
+            "predicted_time": "2025-09-28T05:00:00+07:00"
+          },
+          {
+            "id": 15,
+            "name": "Sạt lở đất nhỏ tại khu vực ven đồi Liên Chiểu",
+            "description": "Phát hiện hiện tượng sạt lở đất nhỏ, cần thông báo khẩn cấp đến người dân ven đồi ven núi.",
+            "predicted_time": "2025-09-28T06:00:00+07:00"
+          },
+          {
+            "id": 16,
+            "name": "Dự báo mưa giảm dần, nước rút chậm",
+            "description": "Mưa sẽ giảm vào sáng ngày 28/9; mực nước ngập tại các khu vực sẽ rút chậm trong vài giờ tới.",
+            "predicted_time": "2025-09-28T07:00:00+07:00"
+          },
+          {
+            "id": 17,
+            "name": "Giảm nguy cơ ngập ở khu vực trung tâm thành phố",
+            "description": "Dự báo mực nước ngập tại Hải Châu và các trung tâm hành chính sẽ giảm trong 6 giờ tới.",
+            "predicted_time": "2025-09-28T08:00:00+07:00"
+          },
+          {
+            "id": 18,
+            "name": "Gia tăng kiểm soát giao thông khu vực ngập",
+            "description": "Lực lượng chức năng tăng cường điều tiết giao thông tại các tuyến phố bị ngập sâu.",
+            "predicted_time": "2025-09-28T09:00:00+07:00"
+          },
+          {
+            "id": 19,
+            "name": "Theo dõi cơn bão di chuyển ra Bắc",
+            "description": "Bão bắt đầu di chuyển ra vùng Bắc, dự kiến giảm cường độ, nhưng cảnh báo vẫn duy trì do mưa kéo dài.",
+            "predicted_time": "2025-09-28T10:00:00+07:00"
+          },
+          {
+            "id": 20,
+            "name": "Kết thúc đợt bão Bualoi",
+            "description": "Dự báo đến cuối ngày 28/9, bão Bualoi gây ngập lụt sẽ suy yếu, mực nước trở lại bình thường.",
+            "predicted_time": "2025-09-28T18:00:00+07:00"
+          }
+        ]
+            
+}
