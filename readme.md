@@ -4,40 +4,41 @@
 ```mermaid
 flowchart TD
   %% QUY TRÌNH DỰ BÁO NGẬP ĐÔ THỊ (ĐÀ NẴNG) — YOLO + IoT + AI
-  subgraph S1[Thu thập & Truy nhập dữ liệu]
-    A1[KTTV Nam Trung Bộ<br/>- Synop, vệ tinh, radar<br/>- Sản phẩm dự báo, internet]
-    A2[Camera giao thông (RTSP/HTTP)]
-    A3[Cảm biến IoT (mưa, mực nước, thời tiết vi mô)]
-    A4[Dữ liệu nền (DEM/DSM, đường, cống, triều)]
-    A5[Phản ánh cộng đồng (ảnh/toạ độ)]
+  subgraph S1["Thu thập & Truy nhập dữ liệu"]
+    A1["KTTV Nam Trung Bộ<br/>- Synop, vệ tinh, radar<br/>- Sản phẩm dự báo, internet"]
+    A2["Camera giao thông (RTSP/HTTP)"]
+    A3["Cảm biến IoT (mưa, mực nước, thời tiết vi mô)"]
+    A4["Dữ liệu nền (DEM/DSM, đường, cống, triều)"]
+    A5["Phản ánh cộng đồng (ảnh/toạ độ)"]
   end
-  subgraph S2[Tiền xử lý & Chuẩn hoá]
-    B1[Đồng bộ thời gian, QA/QC]
-    B2[Xử lý DEM & mạng thoát nước]
-    B3[Hiệu chuẩn camera (góc, cao, mốc chuẩn)]
+  subgraph S2["Tiền xử lý & Chuẩn hoá"]
+    B1["Đồng bộ thời gian, QA/QC"]
+    B2["Xử lý DEM & mạng thoát nước"]
+    B3["Hiệu chuẩn camera (góc, cao, mốc chuẩn)"]
   end
-  subgraph S3[Nhận dạng & Hợp nhất]
-    C1[YOLO phát hiện nước & vật mốc]
-    C2[Ước lượng độ sâu ngập (cm)]
-    C3[Hợp nhất YOLO+IoT+KTTV (Kalman/Particle)]
-    C4[Tạo chuỗi thời gian mức ngập theo vị trí]
+  subgraph S3["Nhận dạng & Hợp nhất"]
+    C1["YOLO phát hiện nước & vật mốc"]
+    C2["Ước lượng độ sâu ngập (cm)"]
+    C3["Hợp nhất YOLO + IoT + KTTV (Kalman/Particle)"]
+    C4["Tạo chuỗi thời gian mức ngập theo vị trí"]
   end
-  D1[Nhận dạng hình thế thời tiết]
-  D2[Cảnh báo mưa mạnh 6–24–48 giờ]
-  subgraph S4[AI Dự báo Ngập]
-    E1[Nowcasting 0–2 giờ (LSTM/TCN/Transformer)]
-    E2[Dự báo 2–24 giờ (AI + thuỷ lực đơn giản)]
-    E3[Ước lượng bất định & ngưỡng cảnh báo]
+  D1["Nhận dạng hình thế thời tiết"]
+  D2["Cảnh báo mưa mạnh 6–24–48 giờ"]
+  subgraph S4["AI Dự báo Ngập"]
+    E1["Nowcasting 0–2 giờ (LSTM/TCN/Transformer)"]
+    E2["Dự báo 2–24 giờ (AI + thuỷ lực đơn giản)"]
+    E3["Ước lượng bất định & ngưỡng cảnh báo"]
   end
-  subgraph S5[Xuất bản & Ứng dụng]
-    F1[Bản đồ ngập thời gian thực]
-    F2[Cảnh báo đa kênh (Dashboard/IOC, API, SMS/Zalo)]
-    F3[Khuyến nghị vận hành (phân luồng, thoát nước)]
+  subgraph S5["Xuất bản & Ứng dụng"]
+    F1["Bản đồ ngập thời gian thực"]
+    F2["Cảnh báo đa kênh (Dashboard/IOC, API, SMS/Zalo)"]
+    F3["Khuyến nghị vận hành (phân luồng, thoát nước)"]
   end
-  subgraph S6[* Hồi quy / Hiệu chỉnh]
-    G1[Đối sánh dự báo ↔ thực đo]
-    G2[Cập nhật trọng số & dữ liệu huấn luyện]
+  subgraph S6["* Hồi quy / Hiệu chỉnh"]
+    G1["Đối sánh dự báo ↔ thực đo"]
+    G2["Cập nhật trọng số & dữ liệu huấn luyện"]
   end
+
   A1 --> S2
   A2 --> S2
   A3 --> S2
@@ -123,9 +124,6 @@ flowchart TD
 
 ## 10) Tổ chức & trách nhiệm
 
-* **Chủ trì**: IOC Đà Nẵng / Sở TT&TT.
-* **Phối hợp**: Sở GTVT, Sở Xây dựng/Thoát nước, Đài KTTV, Công an/CSGT, phường/xã.
-* **Quyền riêng tư**: làm mờ khuôn mặt/biển số; chỉ lưu snapshot & metadata cần thiết.
 
 ## 11) Lộ trình khuyến nghị
 
